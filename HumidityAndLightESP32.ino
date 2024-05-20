@@ -32,8 +32,8 @@ int seconds;
 const int limitHumidity = 60;
 int16_t couleur = SSD1306_WHITE;
 
-const char* ssid = "Freebox-124023";
-const char* password = "t77mrqhtzbqk9ck9q3s76t";
+const char* ssid = "************";
+const char* password = "************************";
 const char* serverUrl = "http://localhost:3001";
 void setup() {
   Serial.begin(9600);
